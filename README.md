@@ -1,1 +1,2 @@
 # DrawBoard
+DrawBoard is a machine learning approach for handwriting recognition. It uses an artificial neural network that I developed to classify letters (A-Z). Although currently limited to 26 letters, the DrawBoard algorithm can easily be modified to identify hundreds of characters, given adequate sample data. Accuracy is currently limited at correctly identifying approximately 70% of characters. This however, is most likely due to the very limited amount of sample data provided for the back propagation learning routine.
